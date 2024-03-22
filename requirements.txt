@@ -1,0 +1,13 @@
+tensorflow==2.10
+pandas
+notebook
+matplotlib
+seaborn
+python-box
+pyYAML
+tqdm
+ensure
+joblib
+types-pyYAML
+scipy
+-e .
